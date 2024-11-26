@@ -2,7 +2,7 @@
 # BIENVENUE SUR LE SITE WEB
 ## FIRST
 ### Leson 
-       Styling text
+       **Bold**Styling text
        **Bold** ou _Italic_
 
        ~~Strikethrough~~
